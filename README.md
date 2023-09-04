@@ -5,3 +5,6 @@ I am using this to make notes while I create the website.
             access to the website.
             2nd page needs to have rules they follow: asking questions about students, leaving students name out and teacher name 
             out to protect everyone. This is not a forum to bast students, teachers, admin, etc. It's here to support and help them.
+
+9/9/2023
+            Good amount of updates for this website/APP. It's still in pieces and I need to bring it together and upload all of the code here. It needs to go to my coding computer. I am going to do this for all the APPs, and I need to review and start adding flutter to all of my website as well!
